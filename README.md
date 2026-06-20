@@ -9,6 +9,9 @@ göre kendini ayarlar ve masaüstünüzde işler yapar.
 > sihirbazı** ile sizin girdiğiniz değerlerden oluşur ve yalnızca kendi
 > bilgisayarınızdaki `config/` klasöründe saklanır.
 
+> 📖 **İlk kez mi kuruyorsunuz?** Adım adım eksiksiz anlatım, macOS izinleri ve
+> sorun giderme için **[KURULUM.md](KURULUM.md)** rehberini izleyin.
+
 ## Özellikler
 
 - 🎙️ **Gerçek zamanlı sesli konuşma** — OpenAI Realtime API ile konuşma-konuşmaya, anlık ve doğal yanıt.
